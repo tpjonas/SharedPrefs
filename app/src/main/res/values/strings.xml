@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shared Prefs</string>
+    <string name="coloractivity_name">Color Preview</string>
+</resources>
